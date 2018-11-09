@@ -1,0 +1,11 @@
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\nurpi-as\Desktop\ProyectoVisualStudio\MuebleríaU\CapaNegocio\obj\Debug\CapaNegocio.pdb
