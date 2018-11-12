@@ -1,0 +1,31 @@
+﻿@model List<PaginaMuebles.Models.User>
+
+@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Nombre de usuario</th>
+            <th>Contraseña</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.idUser</td>
+                <td>@user.Name</td>
+                <td>@user.Lastname</td>
+                <td>@user.Username</td>
+                <td>@user.Password</td>
+            </tr>
+         }
+    </tbody>
+</table>
+
